@@ -1,0 +1,177 @@
+,,AC rate over 1000,Threshold,IC3_runtime,IF,K,IC3_is_safe,# Total Sample,IF pick rate,# safe init in IF over 100,# timeout, unsafe init in IF over 100
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,1.414,00:00:43.21,1,5,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,1.9994,00:00:07.73,1,7,TRUE,1000,18,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,2.8271,00:00:04.12,1,6,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,3.9976,00:00:02.87,1,5,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,5.6526,00:00:04.12,1,9,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,7.9928,00:00:03.12,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,11.3018,00:00:04.32,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,15.9807,00:00:04.37,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,22.5967,00:00:04.32,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,31.9517,00:00:04.32,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bj08amba2g4f3.aig,0,191,45.1797,00:00:04.32,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,1.414,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,1.9994,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,2.8271,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,3.9976,00:00:10.39,13,19,TRUE,1000,76,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,5.6526,00:00:10.64,6,19,TRUE,1000,143,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,7.9928,00:00:12.94,7,22,TRUE,1000,32,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,11.3018,00:00:07.73,8,16,TRUE,1000,351,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,15.9807,00:00:06.18,14,19,TRUE,1000,13,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,22.5967,00:00:09.09,7,17,TRUE,1000,20,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,31.9517,00:00:04.97,2,8,TRUE,1000,294,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/beemlmprt8f1.aig,0,606,45.1797,00:00:03.68,7,8,TRUE,1000,44,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,1.414,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,1.9994,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,2.8271,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,3.9976,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,5.6526,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,7.9928,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,11.3018,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,15.9807,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,22.5967,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,31.9517,00:00:07.58,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s210b037.aig,0,0,45.1797,00:00:20.82,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,1.414,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,1.9994,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,2.8271,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,3.9976,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,5.6526,00:00:09.19,1,16,TRUE,1000,34,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,7.9928,00:00:03.17,1,15,TRUE,1000,70,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,11.3018,00:00:07.83,1,15,TRUE,1000,56,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,15.9807,00:00:02.67,1,16,TRUE,1000,64,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,22.5967,00:00:01.97,1,14,TRUE,1000,57,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,31.9517,00:00:02.12,1,17,TRUE,1000,67,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/abp4p2ff.aig,4,30,45.1797,00:00:00.77,1,15,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,1.414,00:00:00.07,1,3,TRUE,1000,74,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,1.9994,00:00:00.03,1,2,TRUE,1000,78,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,2.8271,00:00:00.03,1,7,TRUE,1000,112,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,3.9976,00:00:00.03,1,7,TRUE,1000,86,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,5.6526,00:00:00.03,1,4,TRUE,1000,110,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,7.9928,00:00:00.02,1,5,TRUE,1000,139,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,11.3018,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,15.9807,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,22.5967,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,31.9517,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/mutexp0.aig,0,470,45.1797,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,1.414,00:00:00.03,1,3,TRUE,1000,255,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,1.9994,00:00:00.02,1,3,TRUE,1000,186,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,2.8271,00:00:00.02,1,5,TRUE,1000,253,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,3.9976,00:00:00.07,1,5,TRUE,1000,255,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,5.6526,00:00:00.02,1,7,TRUE,1000,253,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,7.9928,00:00:00.01,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,11.3018,00:00:00.01,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,15.9807,00:00:00.01,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,22.5967,00:00:00.01,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,31.9517,00:00:00.01,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/counterp0.aig,0,310,45.1797,00:00:00.01,1,7,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,1.414,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,1.9994,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,2.8271,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,3.9976,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,5.6526,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,7.9928,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,11.3018,00:00:02.27,1,2,TRUE,1000,0,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,15.9807,00:00:00.27,1,2,TRUE,1000,33,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,22.5967,00:00:00.27,5,5,TRUE,1000,1,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,31.9517,00:00:00.22,7,7,TRUE,1000,1,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/pcip1.aig,0,512,45.1797,00:00:00.32,8,8,TRUE,1000,0,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,1.414,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,1.9994,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,2.8271,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,3.9976,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,5.6526,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,7.9928,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,11.3018,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,15.9807,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,22.5967,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,31.9517,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobmiterbm1or.aig,0,0,45.1797,00:00:00.01,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,1.414,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,1.9994,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,2.8271,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,3.9976,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,5.6526,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,7.9928,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,11.3018,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,15.9807,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,22.5967,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,31.9517,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynth13.aig,0,1,45.1797,00:00:00.02,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,1.414,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,1.9994,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,2.8271,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,3.9976,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,5.6526,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,7.9928,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,11.3018,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,15.9807,00:00:09.79,2,2,TRUE,1000,147,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,22.5967,00:00:01.42,2,2,TRUE,1000,182,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,31.9517,00:00:00.37,2,2,TRUE,1000,117,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1neg.aig,3,482,45.1797,00:00:00.27,3,3,TRUE,1000,127,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,1.414,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,1.9994,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,2.8271,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,3.9976,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,5.6526,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,7.9928,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,11.3018,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,15.9807,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,22.5967,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,31.9517,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobtuint24.aig,0,0,45.1797,00:00:00.00,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,1.414,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,1.9994,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,2.8271,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,3.9976,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,5.6526,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,7.9928,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,11.3018,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,15.9807,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,22.5967,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,31.9517,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/6s389b02.aig,0,662,45.1797,00:00:00.03,base case unsafe!,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,1.414,00:00:00.27,1,5,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,1.9994,00:00:00.07,1,3,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,2.8271,00:00:00.07,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,3.9976,00:00:00.07,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,5.6526,00:00:00.04,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,7.9928,00:00:00.03,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,11.3018,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,15.9807,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,22.5967,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,31.9517,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/texasifetch1p8.aig,0,0,45.1797,00:00:00.02,1,4,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,1.414,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,1.9994,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,2.8271,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,3.9976,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,5.6526,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,7.9928,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,11.3018,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,15.9807,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,22.5967,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,31.9517,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/csmacdp2.aig,4,4,45.1797,00:00:14.04,4,6,TRUE,1000,0,99,1,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,1.414,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,1.9994,00:00:01.57,exit_code: -6,-1,-1,None,core dumped,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,2.8271,00:00:00.32,exit_code: -6,-1,-1,None,core dumped,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,3.9976,00:00:00.57,1,2,TRUE,IF is unSAT,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,5.6526,00:00:00.27,exit_code: -6,-1,-1,None,core dumped,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,7.9928,00:00:00.27,exit_code: -6,-1,-1,None,core dumped,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,11.3018,00:00:00.27,exit_code: -6,-1,-1,None,core dumped,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,15.9807,00:00:00.27,exit_code: -6,-1,-1,None,core dumped,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,22.5967,00:00:00.27,exit_code: -6,-1,-1,None,core dumped,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,31.9517,00:00:00.27,exit_code: -6,-1,-1,None,core dumped,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/bobsynthor.aig,0,0,45.1797,00:00:00.27,exit_code: -6,-1,-1,None,core dumped,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,1.414,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,1.9994,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,2.8271,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,3.9976,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,5.6526,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,7.9928,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,11.3018,timeout,,,,,,,,
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,15.9807,00:00:08.93,3,3,TRUE,1000,149,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,22.5967,00:00:00.62,2,2,TRUE,1000,148,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,31.9517,00:00:00.42,3,3,TRUE,1000,138,100,0,0
+/home/li/Documents/IC3ref_init/example/hwmcc17-single-benchmarks/unsafe/dme6p1.aig,1,504,45.1797,00:00:00.32,3,3,TRUE,1000,126,100,0,0

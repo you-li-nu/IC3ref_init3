@@ -1,0 +1,671 @@
+threshold: 2.82715
+K is : 1
+trivial is : 0
+. Elapsed time: 0.01
+. % SAT:        100
+. K:            1
+. # Queries:    1092
+. # CTIs:       47
+. # CTGs:       0
+. # mic calls:  91
+. Queries/sec:  109200
+. Mics/sec:     9100
+. # Red. cores: 15
+. # Int. joins: 0
+. # Int. mics:  34
+. Avg lits/cls: 5.93333
+K is : 2
+trivial is : 0
+. Elapsed time: 0.01
+. % SAT:        100
+. K:            2
+. # Queries:    1174
+. # CTIs:       49
+. # CTGs:       0
+. # mic calls:  94
+. Queries/sec:  117400
+. Mics/sec:     9400
+. # Red. cores: 16
+. # Int. joins: 0
+. # Int. mics:  36
+. Avg lits/cls: 5.88312
+K is : 3
+trivial is : 0
+. Elapsed time: 0.01
+. % SAT:        100
+. K:            3
+. # Queries:    1339
+. # CTIs:       54
+. # CTGs:       0
+. # mic calls:  107
+. Queries/sec:  133900
+. Mics/sec:     10700
+. # Red. cores: 18
+. # Int. joins: 0
+. # Int. mics:  46
+. Avg lits/cls: 5.66667
+K is : 4
+trivial is : 0
+. Elapsed time: 0.01
+. % SAT:        100
+. K:            4
+. # Queries:    1850
+. # CTIs:       79
+. # CTGs:       0
+. # mic calls:  164
+. Queries/sec:  185000
+. Mics/sec:     16400
+. # Red. cores: 36
+. # Int. joins: 0
+. # Int. mics:  87
+. Avg lits/cls: 5.30303
+K is : 5
+trivial is : 0
+invariant Frame: 1
+SAT
+IF samples starts.
+sample 0: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 1: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 2: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 3: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 4: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 5: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 6: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 7: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 l10 l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 8: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 9: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 10: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 11: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 l10 l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 12: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 13: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 14: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 15: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 16: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 17: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 18: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 19: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 20: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 21: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 22: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 23: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 24: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 25: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 26: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 27: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 28: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 29: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 30: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 31: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 32: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 33: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 34: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 35: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 36: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 37: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 38: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 39: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 40: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 41: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 42: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 43: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 44: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 45: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 46: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 47: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 ~l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 48: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 49: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 50: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 51: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 52: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 53: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 54: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 55: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 56: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 57: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 58: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 59: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 60: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 61: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 62: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 63: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 64: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 65: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 66: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 67: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 68: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 69: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 70: ~l0 ~l1 ~l2 ~l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 71: ~l0 ~l1 ~l2 ~l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 72: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 73: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 74: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 75: ~l0 ~l1 ~l2 l3 ~l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 76: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 77: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 78: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 79: ~l0 ~l1 ~l2 l3 l4 ~l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 80: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 81: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 82: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 83: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 84: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 85: ~l0 ~l1 ~l2 l3 l4 l5 l6 l7 ~l8 ~l9 l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 86: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 87: ~l0 ~l1 ~l2 l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 88: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 89: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 90: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 91: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 l10 l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 92: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 93: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 94: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 95: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 l10 ~l11 l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 96: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 97: ~l0 ~l1 ~l2 ~l3 l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 98: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 ~l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+sample 99: ~l0 ~l1 ~l2 ~l3 ~l4 l5 l6 l7 ~l8 ~l9 ~l10 l11 ~l12 l13 ~l14 ~l15 ~l16 ~l17 ~l18 ~l19 ~l20 l21 ~l22 ~l23 l24 
+IF samples ends.
+border cube starts.
+frame: 2 border_cube:  l23 
+frame: 2 border_cube:  l0 ~l22 l23 
+frame: 2 border_cube:  l2 l7 l23 
+frame: 2 border_cube:  l2 ~l22 l23 
+frame: 2 border_cube:  l15 l16 l23 
+frame: 2 border_cube:  l0 ~l1 ~l22 l23 
+frame: 2 border_cube:  ~l0 l1 ~l22 l23 
+frame: 2 border_cube:  ~l0 ~l7 l14 l23 
+frame: 2 border_cube:  ~l1 ~l7 l15 l23 
+frame: 2 border_cube:  ~l7 l14 l15 l23 
+frame: 2 border_cube:  l14 l15 l16 l23 
+frame: 2 border_cube:  l0 ~l1 l14 l15 l23 
+frame: 2 border_cube:  l0 l2 ~l7 l14 l23 
+frame: 2 border_cube:  l0 l2 ~l7 l22 l23 
+frame: 2 border_cube:  l1 l2 ~l7 l22 l23 
+frame: 2 border_cube:  ~l1 ~l7 l15 l22 l23 
+frame: 2 border_cube:  ~l0 l2 l7 l8 ~l22 l23 
+frame: 2 border_cube:  ~l0 l2 ~l7 l8 ~l22 l23 
+frame: 2 border_cube:  l1 l7 ~l21 ~l22 l23 l24 
+frame: 2 border_cube:  l1 ~l7 ~l21 ~l22 l23 l24 
+frame: 2 border_cube:  l0 ~l1 l7 ~l21 ~l22 l23 l24 
+frame: 3 border_cube:  l7 l15 l23 
+frame: 3 border_cube:  l7 l22 l23 
+frame: 3 border_cube:  l8 l22 l23 
+frame: 3 border_cube:  l9 l14 l23 
+frame: 3 border_cube:  l9 l15 l23 
+frame: 3 border_cube:  l9 l18 l23 
+frame: 3 border_cube:  l9 l22 l23 
+frame: 3 border_cube:  l0 l1 ~l22 l23 
+frame: 3 border_cube:  ~l0 l7 l14 l23 
+frame: 3 border_cube:  ~l0 l7 l22 l23 
+frame: 3 border_cube:  l1 l2 l7 l23 
+frame: 3 border_cube:  l1 l2 ~l22 l23 
+frame: 3 border_cube:  l7 ~l8 l15 l23 
+frame: 3 border_cube:  l7 ~l8 l22 l23 
+frame: 3 border_cube:  ~l0 l1 ~l7 l14 l23 
+frame: 3 border_cube:  l1 l2 ~l7 l8 l23 
+frame: 3 border_cube:  ~l1 l2 ~l7 l15 l23 
+frame: 3 border_cube:  l2 ~l7 l8 l22 l23 
+frame: 4 border_cube:  ~l0 l7 l16 l23 
+frame: 4 border_cube:  l1 l7 l14 l23 
+frame: 4 border_cube:  l1 l7 l15 l23 
+frame: 4 border_cube:  l1 l7 l18 l23 
+frame: 4 border_cube:  l1 l7 l22 l23 
+frame: 4 border_cube:  l2 l8 l19 l23 
+frame: 4 border_cube:  l2 l8 l22 l23 
+frame: 4 border_cube:  ~l2 l7 l16 l23 
+frame: 4 border_cube:  ~l2 l9 l22 l23 
+frame: 4 border_cube:  l7 l8 l16 l23 
+frame: 4 border_cube:  l7 l8 l22 l23 
+frame: 4 border_cube:  l8 l9 l22 l23 
+frame: 4 border_cube:  l9 l14 l15 l23 
+frame: 4 border_cube:  l0 l9 l10 l18 l23 
+frame: 4 border_cube:  ~l0 l1 l7 l14 l23 
+frame: 4 border_cube:  ~l0 ~l1 ~l7 l15 l23 
+frame: 4 border_cube:  ~l0 ~l1 ~l8 l15 l23 
+frame: 4 border_cube:  ~l0 ~l7 l8 l14 l23 
+frame: 4 border_cube:  l1 l2 l7 l22 l23 
+frame: 4 border_cube:  l1 l2 l8 l15 l23 
+frame: 4 border_cube:  l1 l2 l8 l22 l23 
+frame: 4 border_cube:  ~l1 ~l7 l8 l19 l23 
+frame: 4 border_cube:  ~l1 ~l7 l8 l22 l23 
+frame: 4 border_cube:  l2 l8 l9 l15 l23 
+frame: 4 border_cube:  l2 l8 l9 l18 l23 
+frame: 4 border_cube:  l0 l1 l8 l12 l20 l23 
+frame: 4 border_cube:  ~l0 ~l1 ~l7 l8 l22 l23 
+frame: 4 border_cube:  ~l0 l2 ~l7 l8 l22 l23 
+frame: 5 border_cube:  l14 ~l22 
+frame: 5 border_cube:  l15 ~l22 
+frame: 5 border_cube:  l16 ~l22 
+frame: 5 border_cube:  l17 ~l22 
+frame: 5 border_cube:  l18 ~l22 
+frame: 5 border_cube:  l0 l9 l14 l23 
+frame: 5 border_cube:  ~l12 ~l13 l22 l23 
+frame: 5 border_cube:  l0 ~l7 l9 l16 l23 
+frame: 5 border_cube:  l0 ~l7 l9 l22 l23 
+frame: 5 border_cube:  ~l0 ~l1 ~l2 l15 l23 
+frame: 5 border_cube:  ~l0 ~l1 l8 l19 l23 
+frame: 5 border_cube:  ~l0 ~l2 l7 l14 l23 
+frame: 5 border_cube:  ~l0 ~l2 l7 l22 l23 
+frame: 5 border_cube:  ~l0 l7 l8 l16 l23 
+frame: 5 border_cube:  l1 l2 l7 l16 l23 
+frame: 5 border_cube:  ~l1 l7 l8 l16 l23 
+frame: 5 border_cube:  ~l1 ~l7 l9 l15 l23 
+frame: 5 border_cube:  l2 l7 l8 l16 l23 
+frame: 5 border_cube:  ~l2 l7 ~l8 l16 l23 
+frame: 5 border_cube:  ~l2 l7 l14 l16 l23 
+frame: 5 border_cube:  l0 l1 l7 ~l8 l22 l23 
+frame: 5 border_cube:  ~l0 l1 l7 l14 l16 l23 
+frame: 5 border_cube:  ~l0 l1 l8 l14 l15 l23 
+frame: 5 border_cube:  ~l0 ~l1 ~l2 l15 l16 l23 
+frame: 5 border_cube:  ~l0 ~l1 l7 l8 l22 l23 
+frame: 5 border_cube:  ~l0 l2 l8 ~l9 l20 l23 
+frame: 5 border_cube:  l1 l2 l8 ~l9 l15 l23 
+frame: 5 border_cube:  l1 l2 l8 ~l9 l22 l23 
+frame: 5 border_cube:  l1 ~l2 l7 l14 l15 l23 
+frame: 5 border_cube:  ~l1 ~l7 l9 l15 l16 l23 
+frame: 5 border_cube:  l2 ~l7 l8 ~l9 l20 l23 
+frame: 5 border_cube:  l2 ~l7 l8 ~l9 l22 l23 
+frame: 6 border_cube:  l23 
+frame: 6 border_cube:  ~l24 
+frame: 6 border_cube:  l19 ~l22 
+frame: 6 border_cube:  l20 ~l22 
+frame: 6 border_cube:  l0 ~l2 l7 ~l8 l16 l22 l23 
+border cube ends.
+load_error_starts
+Error: 
+~r144 r140 
+~r144 i14 
+~r140 ~i14 r144 
+~r144 
+Error: 
+~r140 ~r139 
+~r140 l23 
+r139 ~l23 r140 
+~r144 
+Error: 
+~r139 ~r138 
+~r139 i14 
+r138 ~i14 r139 
+~r144 
+Error: 
+~r138 r137 
+~r138 l20 
+~r137 ~l20 r138 
+~r144 
+Error: 
+~r137 r136 
+~r137 l19 
+~r136 ~l19 r137 
+~r144 
+Error: 
+~r136 r135 
+~r136 l18 
+~r135 ~l18 r136 
+~r144 
+Error: 
+~r135 r134 
+~r135 l17 
+~r134 ~l17 r135 
+~r144 
+Error: 
+~r134 r133 
+~r134 l16 
+~r133 ~l16 r134 
+~r144 
+Error: 
+~r133 r132 
+~r133 l15 
+~r132 ~l15 r133 
+~r144 
+Error: 
+~r132 r131 
+~r132 l14 
+~r131 ~l14 r132 
+~r144 
+Error: 
+~r131 r130 
+~r131 l22 
+~r130 ~l22 r131 
+~r144 
+Error: 
+~r130 r129 
+~r130 r106 
+~r129 ~r106 r130 
+~r144 
+Error: 
+~r129 r128 
+~r129 r109 
+~r128 ~r109 r129 
+~r144 
+Error: 
+~r128 r127 
+~r128 r112 
+~r127 ~r112 r128 
+~r144 
+Error: 
+~r127 r126 
+~r127 r115 
+~r126 ~r115 r127 
+~r144 
+Error: 
+~r126 r125 
+~r126 r118 
+~r125 ~r118 r126 
+~r144 
+Error: 
+~r125 r124 
+~r125 r121 
+~r124 ~r121 r125 
+~r144 
+Error: 
+~r124 ~r123 
+~r124 ~r122 
+r123 r122 r124 
+~r144 
+Error: 
+~r123 ~l13 
+~r123 l6 
+l13 ~l6 r123 
+~r144 
+Error: 
+~r122 l13 
+~r122 ~l6 
+~l13 l6 r122 
+~r144 
+Error: 
+~r121 ~r120 
+~r121 ~r119 
+r120 r119 r121 
+~r144 
+Error: 
+~r120 ~l12 
+~r120 l5 
+l12 ~l5 r120 
+~r144 
+Error: 
+~r119 l12 
+~r119 ~l5 
+~l12 l5 r119 
+~r144 
+Error: 
+~r118 ~r117 
+~r118 ~r116 
+r117 r116 r118 
+~r144 
+Error: 
+~r117 ~l11 
+~r117 l4 
+l11 ~l4 r117 
+~r144 
+Error: 
+~r116 l11 
+~r116 ~l4 
+~l11 l4 r116 
+~r144 
+Error: 
+~r115 ~r114 
+~r115 ~r113 
+r114 r113 r115 
+~r144 
+Error: 
+~r114 ~l10 
+~r114 l3 
+l10 ~l3 r114 
+~r144 
+Error: 
+~r113 l10 
+~r113 ~l3 
+~l10 l3 r113 
+~r144 
+Error: 
+~r112 ~r111 
+~r112 ~r110 
+r111 r110 r112 
+~r144 
+Error: 
+~r111 l9 
+~r111 ~l2 
+~l9 l2 r111 
+~r144 
+Error: 
+~r110 ~l9 
+~r110 l2 
+l9 ~l2 r110 
+~r144 
+Error: 
+~r109 ~r108 
+~r109 ~r107 
+r108 r107 r109 
+~r144 
+Error: 
+~r108 l8 
+~r108 ~l1 
+~l8 l1 r108 
+~r144 
+Error: 
+~r107 ~l8 
+~r107 l1 
+l8 ~l1 r107 
+~r144 
+Error: 
+~r106 ~r105 
+~r106 ~r104 
+r105 r104 r106 
+~r144 
+Error: 
+~r105 l7 
+~r105 ~l0 
+~l7 l0 r105 
+~r144 
+Error: 
+~r104 ~l7 
+~r104 l0 
+l7 ~l0 r104 
+~r144 
+load_error_ends
+latch_list_starts
+l0
+l1
+l2
+l3
+l4
+l5
+l6
+l7
+l8
+l9
+l10
+l11
+l12
+l13
+l14
+l15
+l16
+l17
+l18
+l19
+l20
+l21
+l22
+l23
+l24
+latch_list_ends
+input_list_starts
+i0
+i1
+i2
+i3
+i4
+i5
+i6
+i7
+i8
+i9
+i10
+i11
+i12
+i13
+i14
+input_list_ends
+rep_list_starts
+r0
+r1
+r2
+r3
+r4
+r5
+r6
+r7
+r8
+r9
+r10
+r11
+r12
+r13
+r14
+r15
+r16
+r17
+r18
+r19
+r20
+r21
+r22
+r23
+r24
+r25
+r26
+r27
+r28
+r29
+r30
+r31
+r32
+r33
+r34
+r35
+r36
+r37
+r38
+r39
+r40
+r41
+r42
+r43
+r44
+r45
+r46
+r47
+r48
+r49
+r50
+r51
+r52
+r53
+r54
+r55
+r56
+r57
+r58
+r59
+r60
+r61
+r62
+r63
+r64
+r65
+r66
+r67
+r68
+r69
+r70
+r71
+r72
+r73
+r74
+r75
+r76
+r77
+r78
+r79
+r80
+r81
+r82
+r83
+r84
+r85
+r86
+r87
+r88
+r89
+r90
+r91
+r92
+r93
+r94
+r95
+r96
+r97
+r98
+r99
+r100
+r101
+r102
+r103
+r104
+r105
+r106
+r107
+r108
+r109
+r110
+r111
+r112
+r113
+r114
+r115
+r116
+r117
+r118
+r119
+r120
+r121
+r122
+r123
+r124
+r125
+r126
+r127
+r128
+r129
+r130
+r131
+r132
+r133
+r134
+r135
+r136
+r137
+r138
+r139
+r140
+r141
+r142
+r143
+r144
+rep_list_ends
+invariant Frame: 1
+. Elapsed time: 0.02
+. % SAT:        100
+. K:            5
+. # Queries:    2091
+. # CTIs:       98
+. # CTGs:       0
+. # mic calls:  203
+. Queries/sec:  104550
+. Mics/sec:     10150
+. # Red. cores: 38
+. # Int. joins: 0
+. # Int. mics:  105
+. Avg lits/cls: 5.20513
+0
